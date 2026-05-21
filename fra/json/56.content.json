@@ -1,0 +1,462 @@
+[
+  {
+    "content_id": "10056001001",
+    "version": "1.0.2",
+    "title": "Tite 1.1",
+    "media_type": "Text",
+    "index_reference": "56001001",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>1</sup>&nbsp;Paul, serviteur de Dieu, et apôtre de Jésus-Christ pour la foi des élus de Dieu et la connaissance de la vérité qui est selon la piété.</p>"
+  },
+  {
+    "content_id": "10056001002",
+    "version": "1.0.2",
+    "title": "Tite 1.2",
+    "media_type": "Text",
+    "index_reference": "56001002",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>2</sup>&nbsp;Celles-ci reposent sur l’espérance de la vie éternelle, promise dès les plus anciens temps par le Dieu qui ne ment pas.</p>"
+  },
+  {
+    "content_id": "10056001003",
+    "version": "1.0.2",
+    "title": "Tite 1.3",
+    "media_type": "Text",
+    "index_reference": "56001003",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>3</sup>&nbsp;Il a révélé sa parole en son temps par la prédication qui m’a été confiée par ordre de Dieu notre Sauveur.</p>"
+  },
+  {
+    "content_id": "10056001004",
+    "version": "1.0.2",
+    "title": "Tite 1.4",
+    "media_type": "Text",
+    "index_reference": "56001004",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>4</sup>&nbsp;À Tite, mon véritable fils dans la foi que nous partageons. Que Dieu le Père et Jésus-Christ notre Sauveur te donnent la grâce et la paix !</p>"
+  },
+  {
+    "content_id": "10056001005",
+    "version": "1.0.2",
+    "title": "Tite 1.5",
+    "media_type": "Text",
+    "index_reference": "56001005",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>5</sup>&nbsp;C’est pour cela que je t’ai laissé en Crète : tu dois mettre de l’ordre dans ce qui n’est pas encore réglé et aussi établir des anciens dans chaque ville. C’est ce que je t’ai commandé.</p>"
+  },
+  {
+    "content_id": "10056001006",
+    "version": "1.0.2",
+    "title": "Tite 1.6",
+    "media_type": "Text",
+    "index_reference": "56001006",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>6</sup>&nbsp;[Dans chaque ville, établis des anciens] si tu trouves un homme irréprochable. [Cet homme doit être le] mari d’une seule femme et avoir des enfants fidèles. [Ses enfants] ne doivent pas être accusés de débauche ni être rebelles.</p>"
+  },
+  {
+    "content_id": "10056001007",
+    "version": "1.0.2",
+    "title": "Tite 1.7",
+    "media_type": "Text",
+    "index_reference": "56001007",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>7</sup>&nbsp;Car l’ancien doit être irréprochable, en tant qu’intendant de Dieu. Il ne doit pas être arrogant, colérique, attaché au vin, violent ou prêt à gagner de l’argent malhonnêtement.</p>"
+  },
+  {
+    "content_id": "10056001008",
+    "version": "1.0.2",
+    "title": "Tite 1.8",
+    "media_type": "Text",
+    "index_reference": "56001008",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>8</sup>&nbsp;Il doit au contraire être hospitalier, ami des gens de bien, modéré, juste, saint et maître de soi.</p>"
+  },
+  {
+    "content_id": "10056001009",
+    "version": "1.0.2",
+    "title": "Tite 1.9",
+    "media_type": "Text",
+    "index_reference": "56001009",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>9</sup>&nbsp;Il doit être attaché à la vraie parole telle qu’elle a été enseignée. En effet, il doit être capable d’exhorter selon la saine doctrine et d’opposer les contradicteurs.</p>"
+  },
+  {
+    "content_id": "10056001010",
+    "version": "1.0.2",
+    "title": "Tite 1.10",
+    "media_type": "Text",
+    "index_reference": "56001010",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>10</sup>&nbsp;Car il y a, surtout parmi le groupe des circoncis, beaucoup de gens rebelles. Ils font de vains discours et trompent les gens.</p>"
+  },
+  {
+    "content_id": "10056001011",
+    "version": "1.0.2",
+    "title": "Tite 1.11",
+    "media_type": "Text",
+    "index_reference": "56001011",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>11</sup>&nbsp;Il faut leur fermer la bouche. Ils bouleversent des familles entières et enseignent pour un gain honteux ce qui ne doit pas être enseigné.</p>"
+  },
+  {
+    "content_id": "10056001012",
+    "version": "1.0.2",
+    "title": "Tite 1.12",
+    "media_type": "Text",
+    "index_reference": "56001012",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>12</sup>&nbsp;C’est un Crétois lui-même, un de leurs prophètes, qui a dit : « Crétois toujours menteurs, méchantes bêtes, ventres paresseux. »</p>"
+  },
+  {
+    "content_id": "10056001013",
+    "version": "1.0.2",
+    "title": "Tite 1.13",
+    "media_type": "Text",
+    "index_reference": "56001013",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>13</sup>&nbsp;Ce témoignage est vrai. C’est pourquoi reprends-les sévèrement, pour que leur foi soit saine,</p>"
+  },
+  {
+    "content_id": "10056001014",
+    "version": "1.0.2",
+    "title": "Tite 1.14",
+    "media_type": "Text",
+    "index_reference": "56001014",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>14</sup>&nbsp;et pour qu’ils ne s’attachent pas à des fables judaïques et à des commandements d’hommes qui se détournent de la vérité.</p>"
+  },
+  {
+    "content_id": "10056001015",
+    "version": "1.0.2",
+    "title": "Tite 1.15",
+    "media_type": "Text",
+    "index_reference": "56001015",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>15</sup>&nbsp;Tout est pur pour ceux qui sont purs ; mais rien n’est pur pour ceux qui sont souillés et sans foi, car leur intelligence et leur conscience sont souillées.</p>"
+  },
+  {
+    "content_id": "10056001016",
+    "version": "1.0.2",
+    "title": "Tite 1.16",
+    "media_type": "Text",
+    "index_reference": "56001016",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>16</sup>&nbsp;Ils affirment connaître Dieu, mais ils le renient par leurs œuvres. En effet, ils sont abominables, désobéissants et incapables de quelle que soit la bonne œuvre.</p>"
+  },
+  {
+    "content_id": "10056002001",
+    "version": "1.0.2",
+    "title": "Tite 2.1",
+    "media_type": "Text",
+    "index_reference": "56002001",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>1</sup>&nbsp;Pour toi, dis les choses qui sont en accord avec la saine doctrine.</p>"
+  },
+  {
+    "content_id": "10056002002",
+    "version": "1.0.2",
+    "title": "Tite 2.2",
+    "media_type": "Text",
+    "index_reference": "56002002",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>2</sup>&nbsp;Dis que les hommes âgés doivent être sobres, dignes, modérés, sains dans la foi, dans l’amour, dans la patience.</p>"
+  },
+  {
+    "content_id": "10056002003",
+    "version": "1.0.2",
+    "title": "Tite 2.3",
+    "media_type": "Text",
+    "index_reference": "56002003",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>3</sup>&nbsp;Dis que les femmes âgées doivent aussi avoir un comportement qui convient à la sainteté. Elles ne doivent pas être médisantes ou esclaves des excès de vin. Elles doivent donner de bonnes instructions,</p>"
+  },
+  {
+    "content_id": "10056002004",
+    "version": "1.0.2",
+    "title": "Tite 2.4",
+    "media_type": "Text",
+    "index_reference": "56002004",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>4</sup>&nbsp;pour apprendre aux jeunes femmes à aimer leurs maris et leurs enfants,</p>"
+  },
+  {
+    "content_id": "10056002005",
+    "version": "1.0.2",
+    "title": "Tite 2.5",
+    "media_type": "Text",
+    "index_reference": "56002005",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>5</sup>&nbsp;à être modérées et vertueuses, à être occupées chez elles, à être bonnes et soumises à leurs maris. Comme cela, la parole de Dieu ne sera pas blasphémée.</p>"
+  },
+  {
+    "content_id": "10056002006",
+    "version": "1.0.2",
+    "title": "Tite 2.6",
+    "media_type": "Text",
+    "index_reference": "56002006",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>6</sup>&nbsp;Exhorte aussi les jeunes hommes à être raisonnables,</p>"
+  },
+  {
+    "content_id": "10056002007",
+    "version": "1.0.2",
+    "title": "Tite 2.7",
+    "media_type": "Text",
+    "index_reference": "56002007",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>7</sup>&nbsp;te montrant toi-même en toutes choses un modèle de bonnes œuvres, avec un enseignement pur et digne,</p>"
+  },
+  {
+    "content_id": "10056002008",
+    "version": "1.0.2",
+    "title": "Tite 2.8",
+    "media_type": "Text",
+    "index_reference": "56002008",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>8</sup>&nbsp;et une parole saine et irréprochable. L’adversaire sera alors honteux et n’aura aucun mal à dire de nous.</p>"
+  },
+  {
+    "content_id": "10056002009",
+    "version": "1.0.2",
+    "title": "Tite 2.9",
+    "media_type": "Text",
+    "index_reference": "56002009",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>9</sup>&nbsp;[Exhorte] les serviteurs à être soumis à leurs maîtres en toutes choses et à leur plaire. Ils ne doivent pas les contredire,</p>"
+  },
+  {
+    "content_id": "10056002010",
+    "version": "1.0.2",
+    "title": "Tite 2.10",
+    "media_type": "Text",
+    "index_reference": "56002010",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>10</sup>&nbsp;ne rien leur voler, mais toujours se montrer de bonne fidélité. Comme cela, la doctrine de Dieu notre Sauveur sera honorée en tout.</p>"
+  },
+  {
+    "content_id": "10056002011",
+    "version": "1.0.2",
+    "title": "Tite 2.11",
+    "media_type": "Text",
+    "index_reference": "56002011",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>11</sup>&nbsp;Car la grâce de Dieu, source de salut pour tous les êtres humains, a été révélée.</p>"
+  },
+  {
+    "content_id": "10056002012",
+    "version": "1.0.2",
+    "title": "Tite 2.12",
+    "media_type": "Text",
+    "index_reference": "56002012",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>12</sup>&nbsp;Elle nous enseigne à renoncer à l’impiété et aux convoitises du monde et à vivre dans le siècle présent selon la sagesse, la justice et la piété.</p>"
+  },
+  {
+    "content_id": "10056002013",
+    "version": "1.0.2",
+    "title": "Tite 2.13",
+    "media_type": "Text",
+    "index_reference": "56002013",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>13</sup>&nbsp;[Nous devons vivre ainsi] en attendant la bienheureuse espérance et l’apparition de la gloire de notre grand Dieu et Sauveur Jésus-Christ.</p>"
+  },
+  {
+    "content_id": "10056002014",
+    "version": "1.0.2",
+    "title": "Tite 2.14",
+    "media_type": "Text",
+    "index_reference": "56002014",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>14</sup>&nbsp;Il s’est donné lui-même pour nous, afin de nous libérer de toute injustice, [afin] de se purifier un peuple qui lui appartienne et qui ait du zèle pour les bonnes œuvres.</p>"
+  },
+  {
+    "content_id": "10056002015",
+    "version": "1.0.2",
+    "title": "Tite 2.15",
+    "media_type": "Text",
+    "index_reference": "56002015",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>15</sup>&nbsp;Dis ces choses, exhorte, et reprends, en toute autorité. Que personne ne te méprise !</p>"
+  },
+  {
+    "content_id": "10056003001",
+    "version": "1.0.2",
+    "title": "Tite 3.1",
+    "media_type": "Text",
+    "index_reference": "56003001",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>1</sup>&nbsp;Rappelle-leur d’être soumis aux dirigeants et aux autorités, d’obéir, d’être prêts à toute bonne œuvre,</p>"
+  },
+  {
+    "content_id": "10056003002",
+    "version": "1.0.2",
+    "title": "Tite 3.2",
+    "media_type": "Text",
+    "index_reference": "56003002",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>2</sup>&nbsp;de ne médire de personne, d’être pacifiques, modérés [et] de montrer une entière douceur envers tous les êtres humains.</p>"
+  },
+  {
+    "content_id": "10056003003",
+    "version": "1.0.2",
+    "title": "Tite 3.3",
+    "media_type": "Text",
+    "index_reference": "56003003",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>3</sup>&nbsp;Car nous aussi, nous étions autrefois insensés, désobéissants, égarés, esclaves de toute espèce de convoitises et de plaisirs mauvais. Nous vivions dans la méchanceté et dans l’envie. Nous étions dignes d’être haïs, et nous nous détestions les uns les autres.</p>"
+  },
+  {
+    "content_id": "10056003004",
+    "version": "1.0.2",
+    "title": "Tite 3.4",
+    "media_type": "Text",
+    "index_reference": "56003004",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>4</sup>&nbsp;Mais la bonté de Dieu notre Sauveur et son amour envers les hommes ont été révélés.</p>"
+  },
+  {
+    "content_id": "10056003005",
+    "version": "1.0.2",
+    "title": "Tite 3.5",
+    "media_type": "Text",
+    "index_reference": "56003005",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>5</sup>&nbsp;C’est alors qu’il nous a sauvés, non pas à cause des œuvres de justice que nous aurions faites, mais selon sa miséricorde, par le bain de la nouvelle naissance et le renouvellement du Saint-Esprit.</p>"
+  },
+  {
+    "content_id": "10056003006",
+    "version": "1.0.2",
+    "title": "Tite 3.6",
+    "media_type": "Text",
+    "index_reference": "56003006",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>6</sup>&nbsp;Il a répandu sur nous le Saint-Esprit avec abondance par Jésus-Christ notre Sauveur.</p>"
+  },
+  {
+    "content_id": "10056003007",
+    "version": "1.0.2",
+    "title": "Tite 3.7",
+    "media_type": "Text",
+    "index_reference": "56003007",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>7</sup>&nbsp;[Il l’a fait] pour que, justifiés par sa grâce, nous devenions héritiers selon l’espérance de la vie éternelle.</p>"
+  },
+  {
+    "content_id": "10056003008",
+    "version": "1.0.2",
+    "title": "Tite 3.8",
+    "media_type": "Text",
+    "index_reference": "56003008",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>8</sup>&nbsp;Cette parole est certaine, et je veux que tu affirmes ces choses. Alors, ceux qui ont cru en Dieu s’appliqueront à pratiquer de bonnes œuvres.</p>"
+  },
+  {
+    "content_id": "10056003009",
+    "version": "1.0.2",
+    "title": "Tite 3.9",
+    "media_type": "Text",
+    "index_reference": "56003009",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>9</sup>&nbsp;Voilà ce qui est bon et utile aux hommes. Mais évite les discussions folles, les généalogies, les disputes, les querelles à propos de la loi. En effet, celles-ci sont inutiles et vides de sens.</p>"
+  },
+  {
+    "content_id": "10056003010",
+    "version": "1.0.2",
+    "title": "Tite 3.10",
+    "media_type": "Text",
+    "index_reference": "56003010",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>10</sup>&nbsp;Éloigne de toi, après un premier et un second avertissement, un homme qui provoque des divisions.</p>"
+  },
+  {
+    "content_id": "10056003011",
+    "version": "1.0.2",
+    "title": "Tite 3.11",
+    "media_type": "Text",
+    "index_reference": "56003011",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>11</sup>&nbsp;Tu sais qu’un homme de cette espèce est perverti, et qu’il pèche, en se condamnant lui-même.</p>"
+  },
+  {
+    "content_id": "10056003012",
+    "version": "1.0.2",
+    "title": "Tite 3.12",
+    "media_type": "Text",
+    "index_reference": "56003012",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>12</sup>&nbsp;Lorsque je t’enverrai Artémas ou Tychique, dépêche-toi de venir me rejoindre à Nicopolis. En effet, c’est là que j’ai décidé de passer l’hiver.</p>"
+  },
+  {
+    "content_id": "10056003013",
+    "version": "1.0.2",
+    "title": "Tite 3.13",
+    "media_type": "Text",
+    "index_reference": "56003013",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>13</sup>&nbsp;Prends soin de donner à Zénas, le docteur de la loi, et à Apollos tout ce dont ils ont besoin pour leur voyage, pour qu’il ne leur manque rien.</p>"
+  },
+  {
+    "content_id": "10056003014",
+    "version": "1.0.2",
+    "title": "Tite 3.14",
+    "media_type": "Text",
+    "index_reference": "56003014",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>14</sup>&nbsp;Il faut que les nôtres aussi apprennent à faire de bonnes œuvres pour s’assurer d’avoir ce dont ils ont besoin de façon pressante. Comme cela, ils ne seront pas sans produire de fruits.</p>"
+  },
+  {
+    "content_id": "10056003015",
+    "version": "1.0.2",
+    "title": "Tite 3.15",
+    "media_type": "Text",
+    "index_reference": "56003015",
+    "language": "fra",
+    "review_level": "Professional",
+    "content": "<p><sup>15</sup>&nbsp;Tous ceux qui sont avec moi te saluent. Salue ceux qui nous aiment dans la foi. Que la grâce soit avec vous tous !</p>"
+  }
+]
